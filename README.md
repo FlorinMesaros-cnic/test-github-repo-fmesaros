@@ -1,2 +1,2 @@
 # test-github-repo-fmesaros
-just a test repo
+This is just a test repo. Relax!
